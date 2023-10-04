@@ -5,15 +5,15 @@ Desde VS Code y mediante Android Studio se paso al aplicacíón a movil para con
 ---  
 
 ### Imagenes del móvil 
-![photo_2023-10-03_19-21-46](screenshots/primera.jpg)
+![Home](screenshots/primera.jpg)  
 Página principal.  
 ---  
 
-![photo_2023-10-03_19-21-46](https://github.com/EstudiaGit/Actividad_PGL_App_Ionic/assets/93317704/04777c75-031c-45d3-b7d9-a0795cb733af)  
+![Segunda](screenshots/segunda.jpg)  
 Página segunda  
 ---  
 
-![photo_2023-10-03_19-21-54](https://github.com/EstudiaGit/Actividad_PGL_App_Ionic/assets/93317704/98c2ac12-c5f6-4e91-88ca-4acac85056d1)  
+![Tercera](screenshots/tercera.jpg)  
 Página tercera.  
 ---  
 
