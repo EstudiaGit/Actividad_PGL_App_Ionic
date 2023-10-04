@@ -1,0 +1,7 @@
+{
+  "name": "DeporSide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
