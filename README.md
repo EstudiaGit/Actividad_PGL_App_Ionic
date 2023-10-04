@@ -5,7 +5,7 @@ Desde VS Code y mediante Android Studio se paso al aplicacíón a movil para con
 ---  
 
 ### Imagenes del móvil 
-screenshots/primera.jpg
+![photo_2023-10-03_19-21-46](screenshots/primera.jpg)
 Página principal.  
 ---  
 
