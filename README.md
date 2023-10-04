@@ -5,7 +5,7 @@ Desde VS Code y mediante Android Studio se paso al aplicacíón a movil para con
 ---  
 
 ### Imagenes del móvil 
-![photo_2023-10-03_19-27-23](https://github.com/EstudiaGit/Actividad_PGL_App_Ionic/assets/93317704/a10f01bd-322e-4d6b-882a-ecadd7297ac9)  
+screenshots/primera.jpg
 Página principal.  
 ---  
 
